@@ -1,0 +1,54 @@
+body {
+	background: rgb(160, 188, 240);
+	color: black;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	max-height: 100vh;
+	gap: 10px;
+	align-items: center;
+	gap: 20px;
+}
+
+h2 {
+	justify-content: center;
+	align-items: center;
+	color: blanchedalmond;
+	font-size: 40px;
+}
+
+@keyframes flip {
+	from {
+		transform: none;
+	}
+	to {
+		transform: rotateY(360deg);
+	}
+}
+
+.compliment-window {
+	justify-self: center;
+	background-color: white;
+	min-height: 90px;
+	width: 120px;
+	min-width: min-content;
+	padding: 20px;
+	animation: flip 2s;
+}
+
+.btn {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	padding: 5px;
+	width: 99px;
+}
+
+.middle {
+	display: flex;
+	gap: 50px;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 400px;
+}
