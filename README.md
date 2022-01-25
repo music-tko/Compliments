@@ -121,7 +121,7 @@ Project Link: [Live Site](https://complimentstoyou.vercel.app/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/music-tko/Compliments.svg?style=for-the-badge
 [issues-url]: https://github.com/music-tko/Compliments/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/thay-khoase026/
